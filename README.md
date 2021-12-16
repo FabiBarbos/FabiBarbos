@@ -1,7 +1,7 @@
-### Olá 👋, Eu sou a Fabiana Barbosa!
+## Olá 👋, Eu sou a Fabiana Barbosa!
 _____________________________________________________________________________________________________________________________________________________
 
-Me encontre em:
+#### Me encontre em:
 
 <dev>
      <a href = "mailto:fabibarbos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,7 +9,7 @@ Me encontre em:
 
 _____________________________________________________________________________________________________________________________________________________ 
         
-Ferramentas & Linguagens:     
+#### Ferramentas & Linguagens:     
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
